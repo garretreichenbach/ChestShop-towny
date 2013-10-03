@@ -1,0 +1,9 @@
+name: ChestShop-towny
+
+main: com.acrobot.chestshop.towny.Towny
+version: ${project.version}
+
+author: Acrobot
+description: A towny integration for ChestShop 
+ 
+depend: [ChestShop, Towny]
