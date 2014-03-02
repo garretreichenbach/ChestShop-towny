@@ -32,7 +32,7 @@ public class PlotListener implements Listener {
         if (Properties.SHOPS_FOR_OWNERS_ONLY) {
             allow = isPlotOwner(event.getPlayer(), chest, sign);
         } else {
-            allow = isResident(event.getPlayer(), chest, sign);
+            allow = isPlotOwner(event.getPlayer(), chest, sign) || isResident(event.getPlayer(), chest, sign);
         }
 
         event.allow(allow);
