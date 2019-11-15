@@ -1,7 +1,7 @@
-ChestShop notifications
+ChestShop-Towny
 ================================
 
-Sample notification extension for [ChestShop](http://dev.bukkit.org/server-mods/chestshop/)
+[ChestShop](http://dev.bukkit.org/server-mods/chestshop/) addon to work with [Towny](https://github.com/TownyAdvanced/Towny)
 
 Requires the use of Towny 0.94.0.2 or newer!
 
