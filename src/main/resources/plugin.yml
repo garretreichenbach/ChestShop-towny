@@ -1,7 +1,7 @@
 name: ChestShop-towny
 
 main: com.acrobot.chestshop.towny.Towny
-version: ${project.version}
+version: '${project.bukkitPluginVersion}'
 api-version: ${project.bukkitAPIVersion}
 
 author: Acrobot

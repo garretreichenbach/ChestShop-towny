@@ -3,7 +3,7 @@ ChestShop-Towny
 
 [ChestShop](http://dev.bukkit.org/server-mods/chestshop/) addon to work with [Towny](https://github.com/TownyAdvanced/Towny)
 
-Requires the use of Towny 0.94.0.2 or newer!
+Requires the use of Towny 0.98.0.0 or newer!
 
 Building
 --------------------------------
