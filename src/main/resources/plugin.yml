@@ -1,10 +1,6 @@
 name: ChestShop-towny
-
-main: com.acrobot.chestshop.towny.Towny
-version: '${project.bukkitPluginVersion}'
-api-version: ${project.bukkitAPIVersion}
-
-author: Acrobot
-description: A towny integration for ChestShop 
- 
-depend: [ChestShop, Towny]
+version: '1.0.0'
+main: thederpgamer.chestShopTowny.ChestShopTowny
+api-version: '1.20'
+prefix: AtlasLib
+authors: [ TheDerpGamer ]
