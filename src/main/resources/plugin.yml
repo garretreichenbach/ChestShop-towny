@@ -3,4 +3,4 @@ version: '1.0.6'
 main: com.acrobot.chestshop.towny.Towny
 api-version: '1.20'
 prefix: ChestShop-towny
-authors: [ TheDerpGamerX ]
+authors: [ acrobot, TheDerpGamerX ]
